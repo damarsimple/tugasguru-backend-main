@@ -14,10 +14,6 @@
     "pm2:start:queue": "pm2 start npm --name 'queue' -- run 'queue'"
   },
   "dependencies": {
-    "@prisma/client": "^3.7.0",
-    "@sitespeed.io/throttle": "^3.1.0",
-    "@types/graphql-iso-date": "^3.4.0",
-    "@vercel/ncc": "^0.33.1",
     "apollo-server": "^3.5.0",
     "apollo-server-express": "^3.5.0",
     "bcrypt": "^5.0.1",
